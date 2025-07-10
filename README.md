@@ -8,6 +8,11 @@
 
 A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare's developer stack. Quickly deploy a fully functional admin interface with customer and subscription management capabilities.
 
+
+change stuff!
+
+moar stuff!!
+
 ## Features
 
 - 🎨 Modern UI built with Astro and Shadcn UI
