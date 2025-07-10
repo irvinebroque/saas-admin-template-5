@@ -11,6 +11,8 @@ A complete admin dashboard template built with Astro, Shadcn UI, and Cloudflare'
 
 change stuff!
 
+moar stuff!!
+
 ## Features
 
 - 🎨 Modern UI built with Astro and Shadcn UI
